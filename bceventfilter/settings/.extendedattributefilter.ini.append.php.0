@@ -1,0 +1,15 @@
+<?php /*
+
+[MultipleAttributeExtendedFilter]
+ExtensionName=bceventfilter
+ClassName=BcMultipleAttributeExtendedFilter
+MethodName=createSqlParts
+FileName=classes/bcmultipleattributeextendedfilter.php
+
+# [ApproveFilter]
+# ExtensionName=ezapprove2
+# ClassName=eZApproveExtendedFilter
+# MethodName=createSqlParts
+# FileName=classes/ezapproveextendedfilter.php
+
+*/ ?>
